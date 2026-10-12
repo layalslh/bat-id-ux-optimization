@@ -6,7 +6,7 @@ Livrable d'équipe pour le **Hack VS 2026** (Foire du Valais, Espace Innothèque
 
 ## Ma contribution
 
-Équipe de quatre, formée sur place, au Hack VS 2026 (Foire du Valais, 3–4 octobre) pour le challenge Bat-ID. Notre équipe a remporté le challenge Bat-ID et a été sélectionnée pour pitcher sur scène pour le prix général, que nous n'avons pas remporté. Projet réalisé pour répondre à un challenge, sans lien officiel avec Bat-ID.
+On est une équipe de quatre, au Hack VS 2026 (Foire du Valais, 3–4 octobre) pour le challenge Bat-ID. Notre équipe a remporté le challenge Bat-ID et a été sélectionnée pour pitcher sur scène pour le prix général, que nous n'avons pas remporté. Projet réalisé pour répondre à un challenge, sans lien officiel avec Bat-ID.
 
 **Ce que j'ai fait.** J'ai mené la recherche sur le marché et les utilisateurs : j'ai identifié les profils d'utilisateurs et cartographié les besoins de chacun, du propriétaire qui veut tous les détails techniques à celui qui veut l'essentiel. J'ai proposé des idées de design, intégrées au design fusionné de l'équipe. Gabriel et moi avons chacun converti ce design Figma fusionné en prototype HTML. Seul Gabriel a publié dans ce dépôt : l'historique git est entièrement à son nom.
 
