@@ -2,6 +2,25 @@
 
 Livrable d'équipe pour le **Hack VS 2026** (Foire du Valais, Espace Innothèque, 3–4 octobre 2026).
 
+> **Projet d'équipe, forké depuis [aa-augsburger/hack-vs-bat-id](https://github.com/aa-augsburger/hack-vs-bat-id).** La section « Ma contribution » ci-dessous est mon propre récit de mon travail (Layal Saleh, [@layalslh](https://github.com/layalslh)) ; le reste du README est celui de l'équipe.
+
+## Ma contribution
+
+Équipe de quatre, formée sur place, au Hack VS 2026 (Foire du Valais, 3–4 octobre) pour le challenge Bat-ID. Notre équipe a remporté le challenge Bat-ID et a été sélectionnée pour pitcher sur scène pour le prix général, que nous n'avons pas remporté. Projet réalisé pour répondre à un challenge, sans lien officiel avec Bat-ID.
+
+**Ce que j'ai fait.** J'ai mené la recherche sur le marché et les utilisateurs : j'ai identifié les profils d'utilisateurs et cartographié les besoins de chacun, du propriétaire qui veut tous les détails techniques à celui qui veut l'essentiel. J'ai proposé des idées de design, intégrées au design fusionné de l'équipe. Gabriel et moi avons chacun converti ce design Figma fusionné en prototype HTML. Seul Gabriel a publié dans ce dépôt : l'historique git est entièrement à son nom.
+
+**Comment l'équipe a travaillé.** Chacun a proposé des idées de design, dans Figma ou en HTML. Nous avons fusionné les designs dans Figma, puis converti le résultat en HTML. Nous avons échangé avec un spécialiste de l'immobilier et testé l'application réelle ensemble.
+
+**État.** Prototype de hackathon : le code HTML est brouillon, généré avec l'aide d'une IA, et pas prêt pour la production. Toutes les données sont des données de démonstration.
+
+### Équipe
+
+- **Gabriel Ziezer** : conversion du design en prototype HTML.
+- **Antoine Augsburger** et **Andriamifidy Nasandratriniaina Ravaka** : design dans Figma.
+- **Layal** : recherche marché et utilisateurs, idées de design, conversion du design en prototype HTML.
+
+---
 Challenge : *« Comment optimiser l'application Bat-ID pour offrir une expérience plus ergonomique et immersive ? »*
 
 ![Aperçu du livrable](assets/screenshots/apercu-livrable.png)
