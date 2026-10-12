@@ -50,7 +50,7 @@ Le livrable est un **fichier HTML autonome** (CSS + JS embarqués, aucune dépen
 
 ## Figma
 
-Maquettes et prototypes mis en forme dans Figma : [Hack-VS Bat-ID](https://www.figma.com/design/tfyEVyPFbpqG3g6kquxmNm/ULTIME-Final?node-id=39-1008&t=PkQjRuBHUz6rBjRk-1) (mot de passe : `hackvs`).
+Maquettes et prototypes mis en forme dans Figma : [Hack-VS Bat-ID](https://www.figma.com/design/tfyEVyPFbpqG3g6kquxmNm/ULTIME-Final?node-id=39-1008&t=PkQjRuBHUz6rBjRk-1) (accès protégé par mot de passe).
 
 ## Canva
 
