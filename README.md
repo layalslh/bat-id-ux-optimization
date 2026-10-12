@@ -16,9 +16,9 @@ On est une équipe de quatre, au Hack VS 2026 (Foire du Valais, 3–4 octobre) p
 
 ### Équipe
 
-- **Gabriel Ziezer** : conversion du design en prototype HTML.
+- **Gabriel Ziezer** : design figma, conversion du design en prototype HTML.
 - **Antoine Augsburger** et **Andriamifidy Nasandratriniaina Ravaka** : design dans Figma.
-- **Layal** : recherche marché et utilisateurs, idées de design, conversion du design en prototype HTML.
+- **Layal** : recherche marché et utilisateurs, idées de design figma, conversion du design en prototype HTML.
 
 ---
 Challenge : *« Comment optimiser l'application Bat-ID pour offrir une expérience plus ergonomique et immersive ? »*
